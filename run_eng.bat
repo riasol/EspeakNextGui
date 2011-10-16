@@ -1,0 +1,1 @@
+java -cp EspeakNextGui-0.0.1-SNAPSHOT.jar;JavaProLib-1.0-SNAPSHOT.jar EspeakNextGuiMain
