@@ -7,7 +7,7 @@
 		<repository>
 			<id>company.repository</id>
 			<name>Riasol base repository</name>
-			<url>file:///c:/Documents and Settings/właściciel/Moje dokumenty/upload</url>
+			<url>${uploadDirectory}</url>
 		</repository>
 	</distributionManagement>
 	<dependencies>
